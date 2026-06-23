@@ -1,0 +1,10 @@
+.DS_Store
+.superpowers/
+.pencil-exports/
+.verification/
+*.pen
+docs/superpowers/
+tests/
+images/generated-*
+signature-teal.png
+node_modules/

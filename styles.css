@@ -417,6 +417,12 @@ a:focus-visible {
     min-height: auto;
   }
 
+  .work-shell .side-nav {
+    top: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
   .work-main {
     padding-block: 116px 96px;
   }

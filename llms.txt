@@ -7,10 +7,11 @@ This portfolio contains a biography, contact information, and first-person case 
 ## About and Work
 
 - [About Ken Johnson](https://kennethjohnsontech.github.io/): Biography, product management roles and advisory work, social profiles, and contact details.
-- [Selected Work](https://kennethjohnsontech.github.io/work.html): Overview of Ken's work on MailLead, LazyLeadz, and LeadQuest.
+- [Selected Work](https://kennethjohnsontech.github.io/work.html): Overview of Slack Reimagined, an interview concept, and Ken's work on MailLead, LazyLeadz, and LeadQuest.
 
 ## Case Studies
 
+- [Slack Reimagined](https://kennethjohnsontech.github.io/work/slack-reimagined.html): An AI-native Slack product-strategy concept for a Late Checkout Agency interview, with a video walkthrough and interactive deck. Proposed experiences and illustrative savings, not shipped features or measured results.
 - [MailLead](https://kennethjohnsontech.github.io/work/maillead.html): Acquisition evaluation, build-versus-buy judgment, stakeholder alignment, and product and go-to-market work.
 - [LazyLeadz](https://kennethjohnsontech.github.io/work/lazyleadz.html): Engineering hiring, data sourcing, product design, and delivery of a searchable and exportable lead database.
 - [LeadQuest](https://kennethjohnsontech.github.io/work/leadquest.html): Product diagnosis, design, and implementation with AI coding agents, including a historical search-quality rollback lesson.

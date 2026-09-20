@@ -1,0 +1,20 @@
+# Ken Johnson Portfolio
+
+> Ken Johnson, also known as Kenneth Johnson, is a senior product manager and product builder working with startups and founders on product strategy and solving problems with software or AI.
+
+This portfolio contains a biography, contact information, and first-person case studies. Historical financial figures in the case studies are approximate work-record accounts, not independently audited results. Product links and dated activity snapshots have separate meanings described on each page.
+
+## About and Work
+
+- [About Ken Johnson](https://kennethjohnsontech.github.io/): Biography, product management roles and advisory work, social profiles, and contact details.
+- [Selected Work](https://kennethjohnsontech.github.io/work.html): Overview of Ken's work on MailLead, LazyLeadz, and LeadQuest.
+
+## Case Studies
+
+- [MailLead](https://kennethjohnsontech.github.io/work/maillead.html): Acquisition evaluation, build-versus-buy judgment, stakeholder alignment, and product and go-to-market work.
+- [LazyLeadz](https://kennethjohnsontech.github.io/work/lazyleadz.html): Engineering hiring, data sourcing, product design, and delivery of a searchable and exportable lead database.
+- [LeadQuest](https://kennethjohnsontech.github.io/work/leadquest.html): Product diagnosis, design, and implementation with AI coding agents, including a historical search-quality rollback lesson.
+
+## Optional
+
+- [Writing and Contact](https://kennethjohnsontech.github.io/writing.html): Contact Ken and find case-study notes. No standalone articles are published on this page yet.

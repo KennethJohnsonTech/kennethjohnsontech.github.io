@@ -280,6 +280,16 @@ a:focus-visible {
   margin-top: 58px;
 }
 
+.home-contact {
+  margin-top: 32px;
+}
+
+.detail-contact {
+  display: flex;
+  width: fit-content;
+  margin: 24px auto 0;
+}
+
 @media (max-width: 900px) {
   .home-shell,
   .home-main {
@@ -526,6 +536,41 @@ a:focus-visible {
   color: var(--ink-secondary);
   font-size: 20px;
   line-height: 1.48;
+}
+
+.case-stack p + p {
+  margin-top: 20px;
+}
+
+.case-stack a {
+  color: var(--accent-bright);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.case-byline {
+  margin: 24px 0 0;
+  color: var(--ink-secondary);
+  font-size: 14px;
+}
+
+.case-figure {
+  max-width: 800px;
+  margin: 48px auto 0;
+}
+
+.case-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.case-figure figcaption {
+  margin-top: 14px;
+  color: var(--ink-secondary);
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: left;
 }
 
 .detail-link {

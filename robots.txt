@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kennethjohnsontech.github.io/sitemap.xml

@@ -577,7 +577,70 @@ a:focus-visible {
   margin-top: 74px;
 }
 
+.slack-detail {
+  width: min(100%, 1120px);
+}
+
+.slack-detail h1 {
+  font-size: 72px;
+}
+
+.case-media {
+  margin: 64px auto 0;
+  max-width: 960px;
+  text-align: left;
+}
+
+.case-media-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.case-media-heading h2 {
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.case-media-heading span {
+  color: var(--ink-secondary);
+  font-size: 14px;
+}
+
+.case-video,
+.case-deck {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid rgba(242, 245, 244, 0.16);
+  background: #000;
+}
+
+.case-media-link {
+  display: inline-block;
+  margin-top: 16px;
+  color: var(--accent-bright);
+  font-size: 16px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 600px) {
+  .case-deck {
+    min-height: 380px;
+  }
+}
+
 @media (max-width: 900px) {
+  .slack-detail h1 {
+    font-size: 42px;
+    overflow-wrap: anywhere;
+  }
+
   .detail-main {
     padding-block: 112px 96px;
   }

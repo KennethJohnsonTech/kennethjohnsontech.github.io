@@ -1,0 +1,397 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.600
+We will make most conversations
+unnecessary. Slack's mission is to make
+
+00:00:05.600 --> 00:00:06.960
+work life simpler,
+
+00:00:06.960 --> 00:00:12.620
+more pleasant, and more productive. Our
+original promise was to kill email,
+
+00:00:12.620 --> 00:00:13.760
+but we ended up creating
+
+00:00:13.760 --> 00:00:18.300
+a different type of problem. Endless
+channel noise, ping culture, and
+
+00:00:18.300 --> 00:00:19.920
+constant back and
+
+00:00:19.920 --> 00:00:23.940
+forth threads that talk about work instead
+of doing it. Slack was built on
+
+00:00:23.940 --> 00:00:25.280
+three assumptions about
+
+00:00:25.280 --> 00:00:29.810
+the person using it, but a lot has
+changed. The first assumption was that
+
+00:00:29.810 --> 00:00:31.040
+people are doing the work.
+
+00:00:32.240 --> 00:00:36.880
+Today, handing off work to AI is normal.
+Agents can finish a task on their
+
+00:00:36.880 --> 00:00:38.160
+own inside the tools
+
+00:00:38.160 --> 00:00:43.210
+your team already use. The second
+assumption was your team is online when
+
+00:00:43.210 --> 00:00:46.400
+you are. Now work happens
+
+00:00:46.400 --> 00:00:51.030
+when you're offline. Agents run 24/7. Team
+mates are globally distributed
+
+00:00:51.030 --> 00:00:52.480
+and keep different hours.
+
+00:00:53.040 --> 00:00:56.530
+And what's waiting for you when you come
+back is a pile of messages and
+
+00:00:56.530 --> 00:00:58.160
+channel notifications
+
+00:00:58.160 --> 00:01:02.840
+that you need to sort, sift, and orientate
+yourself around before you can
+
+00:01:02.840 --> 00:01:03.440
+decide if your
+
+00:01:03.440 --> 00:01:07.980
+response is needed. The third assumption
+was that you belong to one team
+
+00:01:07.980 --> 00:01:09.040
+with one job.
+
+00:01:10.400 --> 00:01:14.940
+Now people are working beyond their usual
+roles. A designer can analyze
+
+00:01:14.940 --> 00:01:16.240
+customer data.
+
+00:01:16.240 --> 00:01:20.930
+An engineer can draft launch copy. A
+marketer can build a prototype. So
+
+00:01:20.930 --> 00:01:21.840
+what if Slack didn't
+
+00:01:21.840 --> 00:01:26.370
+just help us talk about work? What if
+Slack could take a conversation,
+
+00:01:26.370 --> 00:01:27.600
+figure out what needs to
+
+00:01:27.600 --> 00:01:32.160
+happen next, and get it started? There are
+three elements to make this work.
+
+00:01:32.160 --> 00:01:34.320
+A twin that represents
+
+00:01:34.320 --> 00:01:39.560
+you, a producer that turns discussion into
+work, and Reins, where you
+
+00:01:39.560 --> 00:01:41.440
+decide what an AI can do on
+
+00:01:41.440 --> 00:01:45.540
+its own and what needs your approval.
+Let's see what that looks like for
+
+00:01:45.540 --> 00:01:47.600
+Janice. She's a product
+
+00:01:47.600 --> 00:01:51.190
+lead at Parcelo, helping customers find
+contact information for their
+
+00:01:51.190 --> 00:01:53.520
+sales leads. People across
+
+00:01:53.520 --> 00:01:58.450
+the company turn to her for answers,
+updates, and decisions. She knows the
+
+00:01:58.450 --> 00:01:59.840
+details and remembers
+
+00:01:59.840 --> 00:02:03.920
+why decisions were made, but keeping
+everyone moving takes time away from
+
+00:02:03.920 --> 00:02:05.200
+her high leverage work.
+
+00:02:06.240 --> 00:02:11.850
+But Janice has a secret. She has a twin.
+So let's see what's waiting for
+
+00:02:11.850 --> 00:02:13.040
+her on Monday morning.
+
+00:02:13.840 --> 00:02:18.080
+So it's Monday morning, and her twin has
+already handled 30 questions while
+
+00:02:18.080 --> 00:02:19.920
+she was away. But one
+
+00:02:19.920 --> 00:02:23.700
+still needs her judgment. Janice is
+launching a feature that automatically
+
+00:02:23.700 --> 00:02:25.200
+finds contact information
+
+00:02:25.200 --> 00:02:30.790
+for sales leads. Over the weekend, a pilot
+customer uploaded 5,000 leads,
+
+00:02:30.790 --> 00:02:31.920
+but only had enough credits
+
+00:02:31.920 --> 00:02:37.100
+for 2,000. Engineering is asking how to
+handle this use case. Her twin
+
+00:02:37.100 --> 00:02:38.720
+brings her the options and
+
+00:02:38.720 --> 00:02:42.460
+what they mean for Thursday's launch.
+Since Thursday is only three days
+
+00:02:42.460 --> 00:02:44.000
+away, she wants to have a call
+
+00:02:44.000 --> 00:02:47.730
+with Jonas to work through the details of
+the customer experience. The
+
+00:02:47.730 --> 00:02:48.720
+first topic they work
+
+00:02:48.720 --> 00:02:53.270
+through is design. The design agent drafts
+mockups as they talk, while the
+
+00:02:53.270 --> 00:02:54.320
+producer turns their
+
+00:02:54.320 --> 00:02:59.150
+conversation into Jira tickets, test
+cases, and support drafts. Before they
+
+00:02:59.150 --> 00:03:00.560
+settle on the solution,
+
+00:03:00.560 --> 00:03:03.910
+they both want to understand what Maya
+heard from the pilot customer. She
+
+00:03:03.910 --> 00:03:05.520
+isn't on the call,
+
+00:03:05.520 --> 00:03:09.220
+so the producer asks Maya's twin to bring
+the feedback they need to make
+
+00:03:09.220 --> 00:03:10.560
+the right decision.
+
+00:03:10.560 --> 00:03:14.440
+Janice and Jonas focus on getting the
+experience right. The agents handle
+
+00:03:14.440 --> 00:03:15.440
+the work around them.
+
+00:03:16.080 --> 00:03:19.570
+Janice approves the solution, and the work
+prepared during the call is
+
+00:03:19.570 --> 00:03:21.040
+saved and sent to the system of
+
+00:03:21.040 --> 00:03:25.250
+record. She doesn't leave the conversation
+with the list of follow-up tasks.
+
+00:03:25.250 --> 00:03:26.400
+She just confirms the
+
+00:03:26.400 --> 00:03:30.930
+decision, and the work is already
+prepared. On Saturday, Devin and Sales
+
+00:03:30.930 --> 00:03:32.240
+ask whether Thursday's
+
+00:03:32.240 --> 00:03:36.240
+launch was still on track. Her twin
+answered with what it knew, while
+
+00:03:36.240 --> 00:03:37.040
+making it clear that
+
+00:03:37.040 --> 00:03:41.030
+Janice still had a decision to make. Now
+that she's confirmed, it goes back
+
+00:03:41.030 --> 00:03:42.880
+to Devin with the update,
+
+00:03:42.880 --> 00:03:47.420
+without Janice having to remember who was
+waiting. But why would Janice let
+
+00:03:47.420 --> 00:03:49.040
+something speak for her?
+
+00:03:52.320 --> 00:03:58.400
+Reins is how Janice stays in control. She
+can see what her twin has done,
+
+00:03:58.400 --> 00:04:02.940
+correct it, and decide what it can handle
+without her. As she builds
+
+00:04:02.940 --> 00:04:04.800
+confidence in its work,
+
+00:04:04.800 --> 00:04:09.440
+she can give it more responsibility. Some
+decisions still need her approval,
+
+00:04:10.240 --> 00:04:14.800
+and company rules still apply. But she
+doesn't have to trust it with
+
+00:04:14.800 --> 00:04:16.400
+everything to get the most
+
+00:04:16.400 --> 00:04:20.170
+value from it. People are getting used to
+asking AI before asking a
+
+00:04:20.170 --> 00:04:22.800
+colleague. With the twin,
+
+00:04:22.800 --> 00:04:26.890
+they can get answers from Janice's
+knowledge without interrupting her. We're
+
+00:04:26.890 --> 00:04:27.680
+also moving away
+
+00:04:27.680 --> 00:04:32.360
+from giving AI individual tasks to
+trusting it with more autonomous work.
+
+00:04:32.360 --> 00:04:34.240
+Janice makes a decision,
+
+00:04:34.240 --> 00:04:38.720
+the agent turns it into specs, tickets,
+and whatever else the team needs next.
+
+00:04:39.280 --> 00:04:44.480
+Retrieval helps agents find the relevant
+context, tool use lets them act on it,
+
+00:04:44.480 --> 00:04:48.480
+and agent to agent communication lets them
+get answers from another twin.
+
+00:04:49.600 --> 00:04:54.700
+Slack supplies the reasoning behind that
+work, what was decided, why, and
+
+00:04:54.700 --> 00:04:55.600
+what was promised.
+
+00:04:57.680 --> 00:05:02.480
+That means fewer messages asking for
+answers, fewer calls to check progress,
+
+00:05:02.480 --> 00:05:07.040
+and less chasing people to get things
+done. When people do need to talk,
+
+00:05:07.840 --> 00:05:12.880
+the agents turn that conversation into
+work in real time. Imagine a week
+
+00:05:12.880 --> 00:05:14.880
+with 30 fewer interruptions
+
+00:05:14.880 --> 00:05:19.690
+and zero follow-ups to remember. Your team
+gets what they need, you get the
+
+00:05:19.690 --> 00:05:21.360
+time and the headspace
+
+00:05:21.360 --> 00:05:25.410
+to focus on where you can make the biggest
+impact. Slack's mission is to
+
+00:05:25.410 --> 00:05:27.120
+make work life simpler,
+
+00:05:27.120 --> 00:05:32.240
+more pleasant, and more productive. That
+means fewer interruptions to get an
+answer,
+
+00:05:32.240 --> 00:05:36.060
+fewer follow-ups to make a decision, and
+less time catching up before you
+
+00:05:36.060 --> 00:05:37.120
+can contribute.
+
+00:05:39.760 --> 00:05:43.280
+People will still come together for the
+questions that need their judgment,
+
+00:05:43.280 --> 00:05:47.040
+and while they talk, the producer will
+turn their decisions into work.
+
+00:05:47.840 --> 00:05:51.760
+And afterwards, their twins will update
+the people who need to know.
+
+00:05:51.760 --> 00:05:54.400
+That's how we make most conversations
+unnecessary.
+
+00:05:55.120 --> 00:05:58.000
+By taking care of the questions and
+coordinations that call to them.
+
+00:05:58.880 --> 00:06:02.940
+Imagine starting Monday ready to
+contribute because catching up is already
+
+00:06:02.940 --> 00:06:03.840
+taken care of.

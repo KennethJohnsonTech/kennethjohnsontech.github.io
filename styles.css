@@ -629,6 +629,10 @@ a:focus-visible {
   text-underline-offset: 4px;
 }
 
+.case-media-link + .case-media-link {
+  margin-left: 24px;
+}
+
 @media (max-width: 600px) {
   .case-deck {
     min-height: 380px;

@@ -1,0 +1,83 @@
+Slack Reimagined - video transcript
+Ken Johnson | LCA interview product-strategy concept
+
+Transcribed from the final 6:06 video. Scenarios and savings are illustrative, not measured results.
+
+We will make most conversations unnecessary. Slack's mission is to make work life
+simpler, more pleasant, and more productive. Our original promise was to kill email, but
+we ended up creating a different type of problem. Endless channel noise, ping culture,
+and constant back and forth threads that talk about work instead of doing it. Slack was
+built on three assumptions about the person using it, but a lot has changed. The first
+assumption was that people are doing the work.
+
+Today, handing off work to AI is normal. Agents can finish a task on their own inside
+the tools your team already use. The second assumption was your team is online when you
+are. Now work happens when you're offline. Agents run 24/7. Team mates are globally
+distributed and keep different hours. And what's waiting for you when you come back is a
+pile of messages and channel notifications that you need to sort, sift, and orientate
+yourself around before you can decide if your response is needed. The third assumption
+was that you belong to one team with one job.
+
+Now people are working beyond their usual roles. A designer can analyze customer data.
+An engineer can draft launch copy. A marketer can build a prototype. So what if Slack
+didn't just help us talk about work? What if Slack could take a conversation, figure out
+what needs to happen next, and get it started? There are three elements to make this
+work.
+
+A twin that represents you, a producer that turns discussion into work, and Reins, where
+you decide what an AI can do on its own and what needs your approval. Let's see what
+that looks like for Janice. She's a product lead at Parcelo, helping customers find
+contact information for their sales leads. People across the company turn to her for
+answers, updates, and decisions. She knows the details and remembers why decisions were
+made, but keeping everyone moving takes time away from her high leverage work.
+
+But Janice has a secret. She has a twin. So let's see what's waiting for her on Monday
+morning. So it's Monday morning, and her twin has already handled 30 questions while she
+was away. But one still needs her judgment. Janice is launching a feature that
+automatically finds contact information for sales leads. Over the weekend, a pilot
+customer uploaded 5,000 leads, but only had enough credits for 2,000. Engineering is
+asking how to handle this use case. Her twin brings her the options and what they mean
+for Thursday's launch. Since Thursday is only three days away, she wants to have a call
+with Jonas to work through the details of the customer experience. The first topic they
+work through is design. The design agent drafts mockups as they talk, while the producer
+turns their conversation into Jira tickets, test cases, and support drafts. Before they
+settle on the solution, they both want to understand what Maya heard from the pilot
+customer. She isn't on the call, so the producer asks Maya's twin to bring the feedback
+they need to make the right decision.
+
+Janice and Jonas focus on getting the experience right. The agents handle the work
+around them. Janice approves the solution, and the work prepared during the call is
+saved and sent to the system of record. She doesn't leave the conversation with the list
+of follow-up tasks. She just confirms the decision, and the work is already prepared. On
+Saturday, Devin and Sales ask whether Thursday's launch was still on track. Her twin
+answered with what it knew, while making it clear that Janice still had a decision to
+make. Now that she's confirmed, it goes back to Devin with the update, without Janice
+having to remember who was waiting. But why would Janice let something speak for her?
+
+Reins is how Janice stays in control. She can see what her twin has done, correct it,
+and decide what it can handle without her. As she builds confidence in its work, she can
+give it more responsibility. Some decisions still need her approval, and company rules
+still apply. But she doesn't have to trust it with everything to get the most value from
+it. People are getting used to asking AI before asking a colleague. With the twin, they
+can get answers from Janice's knowledge without interrupting her. We're also moving away
+from giving AI individual tasks to trusting it with more autonomous work.
+
+Janice makes a decision, the agent turns it into specs, tickets, and whatever else the
+team needs next. Retrieval helps agents find the relevant context, tool use lets them
+act on it, and agent to agent communication lets them get answers from another twin.
+Slack supplies the reasoning behind that work, what was decided, why, and what was
+promised. That means fewer messages asking for answers, fewer calls to check progress,
+and less chasing people to get things done. When people do need to talk, the agents turn
+that conversation into work in real time. Imagine a week with 30 fewer interruptions and
+zero follow-ups to remember. Your team gets what they need, you get the time and the
+headspace to focus on where you can make the biggest impact. Slack's mission is to make
+work life simpler, more pleasant, and more productive. That means fewer interruptions to
+get an answer, fewer follow-ups to make a decision, and less time catching up before you
+can contribute.
+
+People will still come together for the questions that need their judgment, and while
+they talk, the producer will turn their decisions into work. And afterwards, their twins
+will update the people who need to know. That's how we make most conversations
+unnecessary. By taking care of the questions and coordinations that call to them.
+Imagine starting Monday ready to contribute because catching up is already taken care
+of.

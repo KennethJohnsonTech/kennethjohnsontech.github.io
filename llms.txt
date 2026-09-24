@@ -16,6 +16,10 @@ This portfolio contains a biography, contact information, and first-person case 
 - [LazyLeadz](https://kennethjohnsontech.github.io/work/lazyleadz.html): Engineering hiring, data sourcing, product design, and delivery of a searchable and exportable lead database.
 - [LeadQuest](https://kennethjohnsontech.github.io/work/leadquest.html): Product diagnosis, design, and implementation with AI coding agents, including a historical search-quality rollback lesson.
 
+## Writing
+
+- [I Bought a Micro-SaaS Instead of Building It](https://kennethjohnsontech.github.io/writing/i-bought-a-micro-saas.html): Essay on the MailLead build-versus-buy decision and when buying a working product beats building one with AI.
+
 ## Optional
 
-- [Writing and Contact](https://kennethjohnsontech.github.io/writing.html): Contact Ken and find case-study notes. No standalone articles are published on this page yet.
+- [Writing and Contact](https://kennethjohnsontech.github.io/writing.html): Contact Ken, read essays, and find case-study notes.

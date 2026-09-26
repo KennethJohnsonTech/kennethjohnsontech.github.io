@@ -1,20 +1,33 @@
 # Ken Johnson Portfolio
 
-> Ken Johnson, also known as Kenneth Johnson, is a senior product manager and product builder working with startups and founders on product strategy and solving problems with software or AI.
+> Ken Johnson, also known as Kenneth Johnson, is a senior product manager and product builder working with startups and founders on product strategy and solving problems with software or AI. He bought a micro-SaaS (MailLead) for $10K up front that brought in $45K in its first week and about $650K over 12 months, launched a lead-data product (LazyLeadz) that did about $250K in 12 months, and built a production SaaS (LeadQuest) solo with AI coding agents.
 
-This portfolio contains a biography, contact information, and first-person case studies. Historical financial figures in the case studies are approximate work-record accounts, not independently audited results. Product links and dated activity snapshots have separate meanings described on each page.
+This portfolio contains a biography, contact information, and first-person case studies. Historical financial figures in the case studies are approximate work-record accounts, not independently audited results. Revenue figures are 12-month totals, not sale prices or profit. Product links and dated activity snapshots have separate meanings described on each page.
+
+## Headline results
+
+- MailLead: $10K up front for a stalled cold-email product with about 100 paying customers; $45K in the first week after launching it to the company's community; about $650K in revenue over the next 12 months.
+- LazyLeadz: launched in two to three months from a single Figma screen; about $250K in revenue over 12 months.
+- LeadQuest: taken from spec to production solo with Claude Code and Codex since December 2025, without a separate engineer.
+
+## Profiles and contact
+
+- LinkedIn (best way to reach Ken): https://www.linkedin.com/in/kennethdjohnson/
+- X: https://x.com/Kenbuildsthings (@Kenbuildsthings)
+- GitHub: https://github.com/KennethJohnsonTech
+- Interactive office portfolio: https://kenjohnsonproductmanager.lovable.app/
 
 ## About and Work
 
 - [About Ken Johnson](https://kennethjohnsontech.github.io/): Biography, product management roles and advisory work, social profiles, and contact details.
-- [Selected Work](https://kennethjohnsontech.github.io/work.html): Overview of Slack Reimagined, an interview concept, and Ken's work on MailLead, LazyLeadz, and LeadQuest.
+- [Selected Work](https://kennethjohnsontech.github.io/work.html): Overview of Ken's work on MailLead, LazyLeadz, and LeadQuest, plus Slack Reimagined, an interview concept.
 
 ## Case Studies
 
+- [MailLead](https://kennethjohnsontech.github.io/work/maillead.html): Acquisition evaluation, build-versus-buy judgment, stakeholder alignment, and product and go-to-market work. About $650K in revenue over 12 months.
+- [LazyLeadz](https://kennethjohnsontech.github.io/work/lazyleadz.html): Engineering hiring, data sourcing, product design, and delivery of a searchable and exportable lead database. Launched in two to three months; about $250K in revenue over 12 months.
+- [LeadQuest](https://kennethjohnsontech.github.io/work/leadquest.html): Product diagnosis, design, and implementation with AI coding agents, built solo, including a historical search-quality rollback lesson.
 - [Slack Reimagined](https://kennethjohnsontech.github.io/work/slack-reimagined.html): An AI-native Slack product-strategy concept for a Late Checkout Agency interview, with a video walkthrough and interactive deck. Proposed experiences and illustrative savings, not shipped features or measured results.
-- [MailLead](https://kennethjohnsontech.github.io/work/maillead.html): Acquisition evaluation, build-versus-buy judgment, stakeholder alignment, and product and go-to-market work.
-- [LazyLeadz](https://kennethjohnsontech.github.io/work/lazyleadz.html): Engineering hiring, data sourcing, product design, and delivery of a searchable and exportable lead database.
-- [LeadQuest](https://kennethjohnsontech.github.io/work/leadquest.html): Product diagnosis, design, and implementation with AI coding agents, including a historical search-quality rollback lesson.
 
 ## Writing
 

@@ -577,7 +577,8 @@ a:focus-visible {
   margin-top: 74px;
 }
 
-.case-stack ul {
+.case-stack ul,
+.case-stack ol {
   margin: 20px 0 0;
   padding-left: 22px;
   color: var(--ink-secondary);
@@ -591,6 +592,30 @@ a:focus-visible {
 
 .case-stack strong {
   color: var(--ink);
+}
+
+.case-stack h3 {
+  margin: 32px 0 10px;
+  color: var(--ink);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.case-stack h2 + h3 {
+  margin-top: 20px;
+}
+
+.case-stack .case-figure {
+  margin-top: 32px;
+}
+
+.case-stack .case-figure + p {
+  margin-top: 32px;
+}
+
+.case-figure-slide {
+  max-width: 560px;
 }
 
 .case-stack > article {

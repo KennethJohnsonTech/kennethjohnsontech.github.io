@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How to (almost) fully automate a B2B newsletter | Ken Johnson</title>
+    <meta name="description" content="How Ken Johnson built a daily B2B newsletter that runs almost on autopilot with Grok, Codex, and Claude: 6 systems, 5 product decisions, and one silent failure.">
+    <link rel="canonical" href="https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html">
+    <meta property="og:title" content="How to (almost) fully automate a B2B newsletter">
+    <meta property="og:description" content="6 systems, 5 product decisions, and the morning it failed without telling anyone">
+    <meta property="og:url" content="https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://kennethjohnsontech.github.io/images/writing/ai-newsletter/og.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="How to (almost) fully automate a B2B newsletter, by Ken Johnson">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Kenbuildsthings">
+    <meta name="twitter:creator" content="@Kenbuildsthings">
+    <meta name="twitter:image" content="https://kennethjohnsontech.github.io/images/writing/ai-newsletter/og.jpg">
+    <meta name="twitter:image:alt" content="How to (almost) fully automate a B2B newsletter, by Ken Johnson">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <meta property="article:published_time" content="2026-10-14">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "@id": "https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html#post",
+      "headline": "How to (almost) fully automate a B2B newsletter",
+      "url": "https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html",
+      "image": "https://kennethjohnsontech.github.io/images/writing/ai-newsletter/og.jpg",
+      "datePublished": "2026-10-14",
+      "author": {
+        "@id": "https://kennethjohnsontech.github.io/#person"
+      }
+    }
+    </script>
+    <link rel="stylesheet" href="../styles.css">
+  </head>
+  <body>
+    <div class="site-shell detail-shell">
+      <nav class="side-nav" aria-label="Primary navigation">
+        <a href="/">HOME</a>
+        <a href="../work.html">WORK</a>
+        <a href="../writing.html" aria-current="page">WRITING</a>
+        <a href="https://kenjohnsonproductmanager.lovable.app/" title="Look around my office: an interactive portfolio">OFFICE ↗</a>
+      </nav>
+
+      <main class="detail-main">
+        <a class="back-link" href="../writing.html">← Writing</a>
+        <p class="work-meta detail-meta"><span>ESSAY</span><span>·</span><span>AI BUILD</span><span>·</span><strong>OCT 2026</strong></p>
+        <h1>How to (almost) fully automate a B2B newsletter</h1>
+        <p class="detail-summary">6 systems, 5 product decisions, and the morning it failed without telling anyone</p>
+        <p class="case-byline">By Ken Johnson</p>
+
+        <figure class="case-figure">
+          <img src="../images/writing/ai-newsletter/cover.jpg" width="1600" height="1066" alt="Cover art for How to (almost) fully automate a B2B newsletter, with sample cards for a founder story, a list of daily leads, and a draft ready by 7:00 for a person to send.">
+        </figure>
+
+        <section class="case-stack" aria-label="Article">
+          <article>
+            <p>My client had 18,000 newsletter subscribers they hadn't emailed in a while.</p>
+            <p>That's a big list to leave quiet. They wanted a daily email that would do two jobs: wake the list back up, and turn readers into users of their product, a B2B lead generation tool.</p>
+            <p>The bet was simple. Useful stories every morning give people a reason to open. Personalized leads give them a reason to sign up.</p>
+            <p>I built it for them with Codex, Claude, and Grok Bot. Today it runs almost entirely on autopilot: a finished draft lands in beehiiv every morning, and one person reads it and presses send.</p>
+            <p>This post covers what's in the email, the five product decisions that shaped it, how I keep it on the rails, and the morning it failed anyway.</p>
+          </article>
+          <article>
+            <h2>What lands in the inbox</h2>
+            <p>Six systems put each issue together:</p>
+            <ol>
+              <li><strong>Founder Stories.</strong> Grok Bot scans X for the latest wins from founders and indie hackers, starting with posts my client bookmarks. Each story is broken into three quick parts: what they did, how they got customers, and what you can try today. Think Hacker News or Indie Hackers, summarized and in your inbox.</li>
+              <li><strong>Who to Follow.</strong> One builder with under 10,000 followers who builds in public. We never print the follower count. It's how we choose people, and saying it could read as belittling.</li>
+              <li><strong>Daily Leads.</strong> Subscribers who share their business website get up to five leads matched to their business. No subscriber gets the same lead twice.</li>
+              <li><strong>Signup Capture.</strong> Subscribers without a website get a prompt to add one.</li>
+              <li><strong>Morning Draft.</strong> A dated draft is ready in beehiiv by 7am with the stories and leads already in it.</li>
+              <li><strong>Human in the Loop.</strong> My client reviews, edits, and sends.</li>
+            </ol>
+            <figure class="case-figure case-figure-slide">
+              <img src="../images/writing/ai-newsletter/daily-leads.jpg" width="1080" height="1350" alt="A sample of the daily leads grid with made-up names, companies, and emails." loading="lazy">
+              <figcaption>An illustration with made-up names. Every reader sees their own five.</figcaption>
+            </figure>
+          </article>
+          <article>
+            <h2>Five product decisions, and what each one cost</h2>
+            <h3>1. I said no to the shiny algorithm</h3>
+            <p>The product already matched leads to a business for its reports. On day one, I pointed out that we could already generate custom reports automatically. We just needed the leads inside the daily newsletter. So the newsletter reuses the existing matcher and its filters. I rejected adding a new matching algorithm. The cost: the newsletter's leads are only as good as the reports. The win: one source of truth, and a much smaller build.</p>
+            <h3>2. AI never gets the send button</h3>
+            <p>The system never schedules or sends anything. It prepares the draft, and my client sends it. AI puts the pieces together. My client is the judgment and verification layer. A draft can be fixed. A sent email can't. The cost: it's not fully hands-off. I'm fine with that.</p>
+            <h3>3. The leads we burn on purpose</h3>
+            <p>Once a send might have happened, those leads are marked used for that subscriber, even if we can't confirm delivery. Some leads get thrown away. Nobody gets the same lead twice. For a product that sells fresh leads, a repeat costs more than a skipped one.</p>
+            <h3>4. Make them click twice</h3>
+            <p>The list uses double opt-in, and I kept it. A confirmed email is a better signal that someone actually wants their leads, and it filters out tire kickers and spam signups. Every confirmed signup starts a lead report, so I want that signal before we do the work. It's safety insurance. The cost: some real people never confirm.</p>
+            <h3>5. Less is more</h3>
+            <p>Grok writes two or three stories when the evidence is there, and fewer when it isn't. A story needs a concrete milestone and a real account of how they got customers. A revenue screenshot with no "how" doesn't make the cut. The cost: some mornings the section runs shorter. Two strong stories beat three weak ones.</p>
+          </article>
+          <article>
+            <h2>How it stays on the rails</h2>
+            <p>Getting Grok to write a good story took a day. Getting it to do that every morning, without me checking, took a few more days. Most of that time went into these five things.</p>
+            <ul>
+              <li><strong>Context engineering.</strong> Grok runs on a versioned context pack that lives on its own computer, not on a long prompt. It's a set of markdown files, each with one job: brand and voice, my client's real X posts as voice examples, target profiles and example stories, the rules for which stories qualify, the exact email format, and how to review, report, and run the daily routine. A README tells Grok which files to read and in what order.</li>
+              <li><strong>Guardrails in code.</strong> The prompt describes the rules, and the code enforces them. Grok's editor can only add content to an unsent draft. It can't send, schedule, change the audience, or touch the leads.</li>
+              <li><strong>Evals.</strong> I started with error analysis: reading real drafts, marking each one pass or fail, and naming what went wrong. Each failure became a check. Objective ones run in code on every draft: formatting, banned punctuation, and whether the copy is new or recycled. Failures we've hit, including the one below, are now regression tests. Subjective calls, like tone and whether a story is worth telling, stay with a person: my client reviews every issue before it goes out.</li>
+              <li><strong>Observability.</strong> After every write, the system reads the draft back and checks the stories, the leads, and the audience. A finished run and a correct draft are tracked as separate signals, and since the failure below, a run that comes back empty sends one alert.</li>
+              <li><strong>Cross-model review.</strong> Codex wrote most of the code. Claude reviewed it. I had each one check the other's work, and more than once one caught the other assuming something it hadn't verified.</li>
+            </ul>
+            <figure class="case-figure case-figure-slide">
+              <img src="../images/writing/ai-newsletter/rails.jpg" width="1080" height="1350" alt="The context pack file list next to the five rails: context engineering, guardrails in code, evals, observability, cross-model review." loading="lazy">
+            </figure>
+          </article>
+          <article>
+            <h2>The morning it failed without telling anyone</h2>
+            <p>Even with those rails, it broke once. One morning, I opened beehiiv and found two drafts, one for that day and one for the next. Both had their leads. Neither had a single story.</p>
+            <p>My first guess was that Grok Bot hadn't run. My desktop app had been asking for an update.</p>
+            <p>It had run. That morning, Grok looked at 14 candidate stories and rejected all of them. Seven failed on evidence or fit. The other seven were marked "already featured." They hadn't been. They were sitting in unsent drafts from the two days before, and the bot treated "in a draft" as "published." The run ended, the scheduler called it a success, and nobody was notified, because the draft hadn't changed.</p>
+            <figure class="case-figure case-figure-slide">
+              <img src="../images/writing/ai-newsletter/failure.jpg" width="1080" height="1350" alt="A run log: 14 candidate stories, 7 wrongly marked already featured, 0 written, run status success, nobody notified." loading="lazy">
+            </figure>
+            <p>I didn't want a one-time fix. I wanted a system that couldn't fail that way again. The fix separates "drafted" from "published," carries good stories forward from unsent issues, and checks the draft itself instead of trusting that the run finished.</p>
+          </article>
+          <article>
+            <h2>What we measure</h2>
+            <p>We're three weeks in, so the first real numbers come next month. These are the three we'll judge it by, one for each job the email has to do.</p>
+            <ol>
+              <li><strong>Reactivation rate.</strong> The share of quiet subscribers who open or click in their first few issues. The first job is waking the list up. If they don't open, nothing else matters.</li>
+              <li><strong>Website adds.</strong> The share of readers who add their business website. That's the moment the email becomes theirs, with leads matched to their business. It's our activation milestone: the first moment the product shows its value.</li>
+              <li><strong>Signups.</strong> Free accounts created from the newsletter. The second job is turning readers into users, and this is the number the business cares about.</li>
+            </ol>
+            <p>We also watch unsubscribes and spam complaints. A daily email that grows signups while it burns the list isn't a win. Those are our guardrail metrics.</p>
+            <p>AI builds the draft. My client sends it.</p>
+            <p>If you're a founder with a quiet list, or an AI workflow you want built with a product lens, <a href="https://www.linkedin.com/in/kennethdjohnson/">message me on LinkedIn</a>.</p>
+          </article>
+        </section>
+
+        <a class="cta-link detail-link detail-contact" href="https://www.linkedin.com/in/kennethdjohnson/">Contact Ken on LinkedIn ↗</a>
+      </main>
+    </div>
+  </body>
+</html>

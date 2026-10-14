@@ -31,6 +31,7 @@ This portfolio contains a biography, contact information, and first-person case 
 
 ## Writing
 
+- [How to (almost) fully automate a B2B newsletter](https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html): Essay on building an AI-assisted daily B2B newsletter for a client with Grok, Codex, and Claude: the systems, the product decisions and their costs, and a silent failure.
 - [I Bought a Micro-SaaS Instead of Building It](https://kennethjohnsontech.github.io/writing/i-bought-a-micro-saas.html): Essay on the MailLead build-versus-buy decision and when buying a working product beats building one with AI.
 
 ## Optional

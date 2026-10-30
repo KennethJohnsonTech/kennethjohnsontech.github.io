@@ -15,6 +15,7 @@ This portfolio contains a biography, contact information, and first-person case 
 - LinkedIn (best way to reach Ken): https://www.linkedin.com/in/kennethdjohnson/
 - X: https://x.com/Kenbuildsthings (@Kenbuildsthings)
 - GitHub: https://github.com/KennethJohnsonTech
+- Substack: https://itskenjohnson.substack.com/
 - Interactive office portfolio: https://kenjohnsonproductmanager.lovable.app/
 
 ## About and Work
@@ -31,9 +32,13 @@ This portfolio contains a biography, contact information, and first-person case 
 
 ## Writing
 
+- [Q3 2026 Observations: A Senior Product Manager's Notebook](https://itskenjohnson.substack.com/p/q3-2026-observations-a-senior-product) (Substack, 2026-10-28): Four observations from the quarter, drawn from what Ken is seeing and building.
+- [What Giving Away 50,000 Apps Taught Me About Building in the AI Era](https://itskenjohnson.substack.com/p/what-giving-away-50000-apps-taught) (Substack, 2026-10-27): A 2020 no-code launch, and why AI builders are hitting the same wall.
 - [How to (almost) fully automate a B2B newsletter](https://kennethjohnsontech.github.io/writing/how-to-almost-fully-automate-a-b2b-newsletter.html): Essay on building an AI-assisted daily B2B newsletter for a client with Grok, Codex, and Claude: the systems, the product decisions and their costs, and a silent failure.
+- [What You're Really Hiring Your First PM to Do](https://itskenjohnson.substack.com/p/what-youre-really-hiring-your-first) (Substack, 2026-10-09): What to look for in a first product hire, and how to keep "whatever's needed" from becoming the whole job.
+- [It's All Just Life](https://itskenjohnson.substack.com/p/its-all-just-life) (Substack, 2026-10-02): A personal essay on not building a life you need a vacation from.
 - [I Bought a Micro-SaaS Instead of Building It](https://kennethjohnsontech.github.io/writing/i-bought-a-micro-saas.html): Essay on the MailLead build-versus-buy decision and when buying a working product beats building one with AI.
 
 ## Optional
 
-- [Writing and Contact](https://kennethjohnsontech.github.io/writing.html): Contact Ken, read essays, and find case-study notes.
+- [Writing and Contact](https://kennethjohnsontech.github.io/writing.html): Contact Ken, read essays and Substack posts, and find case-study notes.

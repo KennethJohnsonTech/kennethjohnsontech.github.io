@@ -805,6 +805,7 @@ a:focus-visible {
   font-weight: 700;
   letter-spacing: 2.4px;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .writing-row:hover strong {
